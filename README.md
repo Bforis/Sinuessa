@@ -15,3 +15,15 @@ This is an improved **prototype**, This is the reason why most of the elements t
 **Made with Unity.**
 
 Itch.io : https://papouf.itch.io/sinuessa
+
+## PVP.Old & prototype-game-multi-pvp
+
+RPG PVP Multiplayer local
+
+## Mobile Cat Game
+
+Simple and relaxing game with cat's collection
+
+## Bubble Rush Mobile Game
+
+Arcade mobile game
