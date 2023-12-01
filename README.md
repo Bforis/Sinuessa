@@ -16,13 +16,14 @@ This is an improved **prototype**, This is the reason why most of the elements t
 
 Itch.io : https://papouf.itch.io/sinuessa
 
-![diagram-pvp](https://github.com/Bforis/prototypes-unity-games/assets/34284864/f67b6696-984d-4517-a6c2-4d4a892264fc)
-
 ## PVP.Old & prototype-game-multi-pvp
 
 RPG PVP Multiplayer local
 
 ![idle_mage](https://github.com/Bforis/prototypes-unity-games/assets/34284864/fcfe9b64-3c11-46c5-9727-cb36b353a9f8)
+
+![diagram-pvp](https://github.com/Bforis/prototypes-unity-games/assets/34284864/f67b6696-984d-4517-a6c2-4d4a892264fc)
+
 
 ## Mobile Cat Game
 
