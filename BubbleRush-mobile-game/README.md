@@ -1,2 +1,0 @@
-# BubbleRush
- Mobile Game 
